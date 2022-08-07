@@ -1,0 +1,26 @@
+{
+	"name": "clock",
+	"version": "1.0.0",
+	"description": "A simple clock web application.",
+	"main": "./src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/haykam821/Clock.git"
+	},
+	"keywords": [
+		"web",
+		"application",
+		"clock",
+		"timer",
+		"countdown"
+	],
+	"author": "haykam821",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/haykam821/Clock/issues"
+	},
+	"homepage": "https://github.com/haykam821/Clock#readme"
+}
