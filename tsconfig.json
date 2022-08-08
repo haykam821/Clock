@@ -1,0 +1,26 @@
+{
+	"compilerOptions": {
+		"downlevelIteration": true,
+		"esModuleInterop": true,
+		"jsx": "react",
+		"lib": [
+			"es2022",
+			"dom"
+		],
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"noImplicitAny": true,
+		"outDir": "./dist",
+		"resolveJsonModule": true,
+		"rootDir": "./src",
+		"skipLibCheck": true,
+		"strict": true,
+		"target": "es5",
+		"types": [
+			"@types/react",
+			"@types/react-dom",
+			"@types/styled-components",
+			"@types/webpack"
+		]
+	}
+}
